@@ -124,7 +124,7 @@ public class MenuFrame extends javax.swing.JFrame {
         startButton.setFocusPainted(false);
         startButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                startButtonActionPerformed(evt);
+                Senet.main(null);
             }
         });
         jPanel1.add(startButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 130, 141, -1));
