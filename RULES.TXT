@@ -1,0 +1,42 @@
+:::::::::::::::::::::::::::::::::::THE RULES OF SENET:::::::::::::::::::::::::::::::::::
+
+Senet is a 2 player game.
+
+Each player has 7 pawns.
+
+The objective of the game is to move all of one's pawns off the board before the other player can.
+
+Pawns move across the board in a backwards S direction.
+
+The amount of squares a pawn can move are determined by the throwing of 4 sticks.
+Each turn, a player throws the sticks by clicking the bottom section of the game screen.
+
+Each brown stick counts as a movement across 1 square. If 4 brown sticks are thrown, then the player may advance his stone 5 spaces.
+
+If a move will result in a player's stone landing on a square occupied with another one of his stones, no movement will occur, and his turn will end.
+
+If a move will result in a player's stone landing on a square occupied with one of the other player's stones, the 2 stones will swap places.
+
+The square in the center row is the House of Rebirth.
+
+On the bottom row of the board are 4 special squares.
+
+From left to right, they are:
+
+The House of Happiness:
+
+Stones rolling past this square must land on this square.
+
+The House of Water:
+
+A stone landing here will arrive back at the House of Rebirth.
+
+The House of Three Truths:
+
+A stone may only leave this square when a 3 is rolled.
+
+The House of Ra-Atoum:
+
+A stone may only leave this square when a 2 is rolled.
+
+Enjoy Senet!
